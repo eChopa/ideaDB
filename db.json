@@ -1,9 +1,11 @@
 {
-  "ideas": [
-      { "id": 123,
-        "created_date": "2019-10-10",
-        "title": "qwe",
-        "body": "asd"
-      }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
