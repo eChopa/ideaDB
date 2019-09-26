@@ -4,9 +4,8 @@
     { "id": 22, "title": "Idea 2", "created_date": "2019-12-10", "body": "zxczxczc" },
     { "id": 33, "title": "Idea 3", "created_date": "2019-9-10", "body": "qweqweqw" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "new": [
+    { "id": 44, "created_date": "2020-01-01" }
   ],
   "profile": {
     "name": "typicode"
