@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 11, "title": "Idea 1", created_date: "2019-10-10", body: "asdfsdfsdf" },
+    { "id": 22, "title": "Idea 2", created_date: "2019-12-10", body: "zxczxczc" },
+    { "id": 33, "title": "Idea 3", created_date: "2019-9-10", body: "qweqweqw" },
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
