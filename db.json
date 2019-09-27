@@ -1,12 +1,15 @@
 {
   "ideas": [
-    { "id": 11, "title": "Idea 1", "created_date": "2019-10-10", "body": "asdfsdfsdf" },
-    { "id": 22, "title": "Idea 2", "created_date": "2019-12-10", "body": "zxczxczc" },
-    { "id": 33, "title": "Idea 3", "created_date": "2019-9-10", "body": "qweqweqw" }
+    { "id": 11, "title": "Idea 1", "created_date": "2019-10-10", "body": "Text of the first idea" },
+    { "id": 22, "title": "Idea 2", "created_date": "2019-12-10", "body": "Text of the second idea" },
+    { "id": 33, "title": "Idea 3", "created_date": "2019-9-10", "body": "Text of the third idea" }
   ],
   "new": 
     { "id": 44, "created_date": "2020-01-01" },
-  "profile": {
-    "name": "typicode"
+  "update": {
+    "done": "good"
+  },
+  "delete": {
+    "delete": "good"
   }
 }
